@@ -50,20 +50,20 @@ linkedin_username: george-ciesinski-5a8a134a
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/self.png
 about_content: | # this will include new lines to allow paragraphs
   I am a software developer currently working as an IT professional. As well as providing L1 phone and email support, I also have experience making different kinds of software and scripts. I have worked on numerous solo projects, as well as projects within a team.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Git</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Git</mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Flask RESTful Api
+        link: https://github.com/GeorgeCiesinski/FlaskRESTful-for-Heroku
+        link_text: Github
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -72,9 +72,10 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          A RESTful Api built using <mark>Python</mark>, <mark>Flask</mark> and deployed to <mark>Heroku</mark>
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This API allows you to use GET, POST, PUT and DELETE stores and items.
+          I built this to improve my understanding of RESTful APIs.
   - title: Experience
     layout: list
     content:
