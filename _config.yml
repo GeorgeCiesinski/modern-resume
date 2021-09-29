@@ -22,16 +22,7 @@ darkmode: false
 twitter_username: GeorgeCiesinski
 github_username:  GeorgeCiesinski
 stackoverflow_username: "2665812"
-# dribbble_username:
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
 linkedin_username: george-ciesinski-5a8a134a
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 # additional_links:
@@ -65,27 +56,23 @@ content:
         link: https://github.com/GeorgeCiesinski/FlaskRESTful-for-Heroku
         link_text: Github
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/GeorgeCiesinski/FlaskRESTful-for-Heroku
         quote: >
-          A RESTful Api built using <mark>Python</mark>, <mark>Flask</mark> and deployed to <mark>Heroku</mark>
+          A RESTful Api which lets you POST, GET, PUT, and DELETE various stores and items
         description: | # this will include new lines to allow paragraphs
-          This API allows you to use GET, POST, PUT and DELETE stores and items.
-          I built this to improve my understanding of RESTful APIs.
+          This API was built using <mark>Python</mark>, <mark>Flask</mark> and deployed to <mark>Heroku</mark>. I wrote this project to familiarize myself with <mark>Flask</mark> and dependent libraries such as <mark>Flask-JWT</mark> and <mark>Flask-SQLAlchemy</mark>.
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: New Era Technology
+        sub_title: VNOC / CSC Advocate
+        caption: August 2017 - PRESENT
+        link: https://www.neweratech.com/us/
         quote: >
-          Short description of the company (optional)
+          A video conferencing company that provides global support for various video teleconferencing services
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
