@@ -74,7 +74,12 @@ content:
         quote: >
           A video conferencing company that provides global support for various video teleconferencing services
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          > Created application using Python that uses shortcuts to recall saved text responses, saving
+          colleagues hundreds of hours after widespread adoption
+
+          > Connect video conferences over global network  and provide live operator support
+
+          > Investigate and resolve network and device issues
   - title: Education
     layout: list
     content:
