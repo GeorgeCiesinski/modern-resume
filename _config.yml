@@ -80,6 +80,30 @@ content:
           * Connect video conferences over global network  and provide live operator support
 
           * Investigate and resolve network and device issues
+      - layout: left
+        title: Humber College
+        sub_title: IT Analyst
+        caption: August 2015 - March 2017
+        link: https://humber.ca/
+        quote: >
+          Institute of Technology & Advanced Learning
+        description: | # this will include new lines to allow paragraphs
+          * Provided over-counter support to staff and students to resolve technical issues
+
+          * Provide technical troubleshooting by e-mail and phone
+      - layout: left
+        title: Multimatic
+        sub_title: Jr. Database Administrator COOP
+        caption: May 2013 - August 2013
+        link: https://www.multimatic.com/
+        quote: >
+          A privately held Canadian corporation supplying components, systems and engineering services to the global automotive industry
+        description: | # this will include new lines to allow paragraphs
+          * Architected ETL process between two conflicting databases (MS Access, MySQL)
+
+          * Linked Kepware to MySQL to track errors, states, and part counts
+
+          * Researched alternative methods to link company databases (ODBC, VB Script)
   - title: Education
     layout: list
     content:
@@ -88,9 +112,13 @@ content:
         sub_title: Advanced Diploma in Electromechanical Engineering
         caption: 2011 - 2014
         quote: >
-          Short institution or course description (optional)
+          Electro-mechanical Engineering Advanced Diploma
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          * Programmed articulated robots and PLC (Ladder and Structured Text)
+
+          * Learned various programming languages such as VB, C++, and C#
+
+          * Developed an industrial 3D printer for my Final Year project
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
