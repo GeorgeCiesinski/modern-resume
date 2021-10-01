@@ -127,17 +127,18 @@ content:
           Electro-mechanical Engineering Advanced Diploma
         description: | # this will include new lines to allow paragraphs
           * Programmed articulated robots and PLC (Ladder and Structured Text)
-
           * Learned various programming languages such as VB, C++, and C#
-
           * Developed an industrial 3D printer for my Final Year project
-  - title: A Little More About Me
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      *
+  - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
