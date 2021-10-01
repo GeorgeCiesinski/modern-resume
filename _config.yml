@@ -25,10 +25,10 @@ stackoverflow_username: "2665812"
 linkedin_username: george-ciesinski-5a8a134a
 
 # Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+  - title: PDF Resume
+    icon: far fa-file-pdf
+    url: https://georgeciesinski.github.io/george-ciesinski-project-page/assets/PDF/GeorgeCiesinskiResume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -63,6 +63,18 @@ content:
           A RESTful Api which lets you POST, GET, PUT, and DELETE various stores and items
         description: | # this will include new lines to allow paragraphs
           This API was built using <mark>Python</mark>, <mark>Flask</mark> and deployed to <mark>Heroku</mark>. I wrote this project to familiarize myself with <mark>Flask</mark> and dependent libraries such as <mark>Flask-JWT</mark> and <mark>Flask-SQLAlchemy</mark>.
+      - layout: left
+        title: Portfolio Website
+        link: https://github.com/GeorgeCiesinski/FlaskRESTful-for-Heroku
+        link_text: Github
+        additional_links:
+          - title:  Github
+            icon: fab fa-github
+            url: https://github.com/GeorgeCiesinski/george-ciesinski-project-page
+        quote: >
+          Bootstrap 5 website displaying my various projects
+        description: | # this will include new lines to allow paragraphs
+          This website was built using <mark>HTML</mark>, <mark>CSS</mark>, <mark>Bootstrap 5</mark> and hosted with <mark>Github Pages</mark>.
   - title: Experience
     layout: list
     content:
