@@ -127,7 +127,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      * Familiar <mark>Python</mark>, <mark>Javascript</mark>, <mark>C++</mark>, <mark>C#</mark>, <mark>HTML</mark>, <mark>CSS</mark>, and <mark>SQL</mark>.
+      * Familiar with <mark>Python</mark>, <mark>Javascript</mark>, <mark>C++</mark>, <mark>C#</mark>, <mark>HTML</mark>, <mark>CSS</mark>, and <mark>SQL</mark>.
       * **Team Player**, **Problem Solver**, **Quick Learner**, **Creative** and **Optimistic**
   - title: Interests
     layout: text
