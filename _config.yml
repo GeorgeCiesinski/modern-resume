@@ -88,9 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           * Created application using Python that uses shortcuts to recall saved text responses, saving
           colleagues hundreds of hours after widespread adoption
-
           * Connect video conferences over global network  and provide live operator support
-
           * Investigate and resolve network and device issues
       - layout: left
         title: Humber College
@@ -134,9 +132,9 @@ content:
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I am not programming, I dabble with technology such as 3D Printers, and Virtual Reality.
+      When I am not programming, enjoy staying active by cycling, tennis, squash, and practising martial arts.
 
-      I also enjoy staying active by cycling, tennis, squash, and practising martial arts.
+      I also like exploring Sci-Fi / Fantasy media, and have a keen interest in cyberpunk themes.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
